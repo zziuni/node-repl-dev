@@ -21,7 +21,7 @@
 
 `package.json`의 **dependencies**와 함께 **devDependencies**도 모두 `require()`한 REPLD를 활성화한다. 
 
-    >repld -jqury
+    >repld -jquery
 
 `package.json`를 무시하고 **jquery**만 `require()`한 REPL를 활성화한다. jquery는 `$`로 참조한다. Node-REPL-Dev에 내장되어있으므로 project의 node_modules에 없어도 사용할 수 있다. 
 
