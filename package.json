@@ -1,5 +1,5 @@
 {
-  "name": "node-repld-dev",
+  "name": "node-repl-dev",
   "version": "0.0.2",
   "description": "node repl width dependencies on package.js",
   "main": "index.js",
