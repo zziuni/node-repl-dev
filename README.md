@@ -5,7 +5,7 @@
 
 ##Installation
 
-	npm install -g repld
+	npm install -g node-repl-dev
 
 ## Usage
 
