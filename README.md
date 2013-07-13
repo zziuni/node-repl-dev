@@ -34,4 +34,4 @@ project root path에서 `repld`를 입력한다. 그러면 `package.json`의 dep
 
 
 ## License
-MIT
+BSD
