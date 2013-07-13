@@ -3,7 +3,6 @@
   "version": "0.0.2",
   "description": "node repl with dependencies on package.js",
   "main": "index.js",
-  "repository": "",
   "keywords": [
     "repld", "repl-dev"
   ],
