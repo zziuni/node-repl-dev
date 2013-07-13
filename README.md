@@ -3,6 +3,8 @@
 ## What is this?
 간단한 코드를 테스트할 때 사용하는 Node REPL의 확장 버전입니다. library, module 테스트가 용의하도록 REPL이 시작될 때 자동으로 프로젝트의 모듈을 require() 시킬 수 있습니다. 
 
+코드 테스트할 때, lib가 로드 되어있는 브라우저의 Web Inspector도 불편하고, Node의 REPL을 쓰자니 매번 require()를 해야 하는게 불편해서 만들었습니다. 
+
 ##Installation
 
     npm install -g node-repl-dev
